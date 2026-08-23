@@ -4,6 +4,8 @@
 [![Device Support](https://img.shields.io/badge/Devices-RG35XX%20Plus%20%7C%20SP%20%7C%202024%20%7C%20RG28XX%20%7C%20RG34XX-brightgreen.svg)](#)
 [![OS Support](https://img.shields.io/badge/OS-muOS%20%7C%20KNULLI%20%7C%20ROCKNIX%20%7C%20ArkOS-purple.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](#)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erfan2255/gtasa-portmaster-dpad/total)
+
 
 A clean, non-destructive binary fix for the **Grand Theft Auto: San Andreas** Linux/PortMaster ARM64 port.
 

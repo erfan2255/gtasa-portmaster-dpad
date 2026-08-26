@@ -10,6 +10,8 @@ A clean, non-destructive binary fix for the **Grand Theft Auto: San Andreas** Li
 
 This fix allows you to play GTA: San Andreas on D-Pad-only Anbernic handheld consoles by routing D-Pad inputs directly into the game's **Left Analog Stick** (movement and steering) **without altering or scrambling the face buttons (A/B/X/Y), shoulder buttons, or Start/Select**.
 
+**I tested on RG35XX Plus with MuOS firmware** 
+
 ---
 
 ## Supported Devices
